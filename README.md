@@ -18,7 +18,7 @@ Simply download the js and associating folders, and include the script on your p
 
 To install stinky.js...
 
-Make sure the contents of STINKY_JS are uploaded to the root directory of your site.
+Make sure the contents of **stinky_js** are uploaded to the root directory of your site.
 Under your page's title tags include:
 ```
 <script src="stinky.js"></script>
@@ -38,3 +38,5 @@ Or on page load:
 And that's it! Your website now supports flies!
 
 ![screenshot](http://tetrageddon.com/stinkyjs/screenshot.png "screenshot")
+
+*Disclaimer: stinky_js supports up to 4 flies. If you spawn more, you are doing so on your own volition, and we accept no liabilities.*
