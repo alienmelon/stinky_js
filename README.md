@@ -10,6 +10,9 @@
 
 You should be, and worry no more, stinky.js is here! Now you can easily attract flies to your website using javascript.
 
+* stinky.js will work on any website
+* Animated dom elements. These flies are ready for the modern web!
+
 It's easy. Too easy even.
 Simply download the js and associating folders, and include the script on your page.
 
@@ -33,3 +36,5 @@ Or on page load:
 <body onload="stinky()">
 ```
 And that's it! Your website now supports flies!
+
+![screenshot](http://tetrageddon.com/stinkyjs/screenshot.png "screenshot")
