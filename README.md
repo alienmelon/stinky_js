@@ -3,7 +3,7 @@
 ## Welcome to stinky.js, [click here](http://tetrageddon.com/stinkyjs/) for a live demo!
 
 * Have you ever wanted to attract flies to your website?
-* Are your page visitors bored by the lack of insect life?
+* Are your page visitors bored with the lack of insect life?
 * Biodiversity is important and flies play an important role in the web ecosystem!
 * Have these never been concerns until now?
 * Are you concerned?
